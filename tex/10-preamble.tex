@@ -32,14 +32,25 @@ citecolor=black, menucolor=black, filecolor=black,
 \geometry{right=20mm}
 \geometry{left=30mm}
 
-
-
 % Произвольная нумерация списков.
 \usepackage{enumerate}
 
+% расположение картинок на том же месте где они определены в LaTeX файле
+\usepackage{float}
+
+\usepackage{url}
+
+\usepackage[
+backend=biber,
+style=gost-numeric              % стиль использованной литературы ГОСТ
+]{biblatex}
+\addbibresource{bibliography.bib}
+
+\usepackage{array}
+
 \setcounter{tocdepth}{1} %Подробность оглавления
-%4 это chapter, section, subsection, subsubsection и paragraph
-%3 это chapter, section, subsection и subsubsection
-%2 это chapter, section, и subsection
-%1 это chapter и section
-%0 это chapter.
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "0-main"
+%%% End:

@@ -1,0 +1,9 @@
+# Fdb version 4
+["pdflatex"] 1692086308 "10-preamble.tex" "dest/10-preamble.pdf" "10-preamble" 1692089422 2
+  "10-preamble.tex" 1672230278 2313 c3f4965d5c95d492b5666ead81d1904d ""
+  "C:/Users/hrams/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1672142777 23168607 a5b58793df6fe1cbf0aad9d891223d2e ""
+  "dest/10-preamble.aux" 1692086308 32 3985256e7290058c681f74d7a3565a19 ""
+  (generated)
+  "dest/10-preamble.log"
+  "dest/10-preamble.pdf"
+  (rewritten before read)

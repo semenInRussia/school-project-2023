@@ -1,0 +1,4 @@
+PWD C:\Users\hrams\AppData\Roaming\projects\exploring-projec2\tex
+INPUT C:\Users\hrams\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT 10-preamble.tex
+OUTPUT C:\Users\hrams\AppData\Roaming\projects\exploring-projec2\tex\dest\10-preamble.log
